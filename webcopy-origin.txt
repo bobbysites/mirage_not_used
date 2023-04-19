@@ -1442,7 +1442,7 @@ Uri: https://pr-line.biz/wp-content/uploads/2020/06/logo-footer.png
 File Name: D:\web\pr-line.biz\wp-content\uploads\2020\06\logo-footer.png
 Content Type: image/png
 
-Uri: https://pr-line.biz/wp-content/uploads/2020/06/logo.png
+Uri: https://pr-line.biz/wp-content/uploads/2020/06/logo.PNG
 File Name: D:\web\pr-line.biz\wp-content\uploads\2020\06\logo.png
 Content Type: image/png
 
