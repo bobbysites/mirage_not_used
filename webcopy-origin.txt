@@ -1438,7 +1438,7 @@ Uri: https://pr-line.biz/wp-content/uploads/2020/06/insta_icon_orang.png
 File Name: D:\web\pr-line.biz\wp-content\uploads\2020\06\insta_icon_orang.png
 Content Type: image/png
 
-Uri: https://pr-line.biz/wp-content/uploads/2020/06/logo-footer.png
+Uri: https://pr-line.biz/wp-content/uploads/2020/06/logo-footer.PNG
 File Name: D:\web\pr-line.biz\wp-content\uploads\2020\06\logo-footer.png
 Content Type: image/png
 
